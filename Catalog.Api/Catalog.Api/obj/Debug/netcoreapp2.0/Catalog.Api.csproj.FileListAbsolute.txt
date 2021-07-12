@@ -1,0 +1,11 @@
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\bin\Debug\netcoreapp2.0\Catalog.Api.deps.json
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\bin\Debug\netcoreapp2.0\Catalog.Api.runtimeconfig.json
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\bin\Debug\netcoreapp2.0\Catalog.Api.runtimeconfig.dev.json
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\bin\Debug\netcoreapp2.0\Catalog.Api.dll
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\bin\Debug\netcoreapp2.0\Catalog.Api.pdb
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.dll
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.pdb
+C:\Users\Sumit\source\repos\Catalog.Api\Catalog.Api\obj\Debug\netcoreapp2.0\Catalog.Api.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+services:
+  catalog.api:
+    build:
+      context: C:\Users\Sumit\source\repos\Catalog.Api
+      dockerfile: Catalog.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: catalogapi
+    ports:
+    - target: 80
+version: '3.4'
